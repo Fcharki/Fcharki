@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👨‍💻 All of my projects are available at [https://fcharki.github.io/fcharki-portfolio/](https://fcharki.github.io/fcharki-portfolio/)
+- 👨‍💻 Some of my projects are available at [https://fcharki.github.io/fcharki-portfolio/](https://fcharki.github.io/fcharki-portfolio/)
 
 - 📫 How to reach me **fadmaproco@gmail.com**
 
