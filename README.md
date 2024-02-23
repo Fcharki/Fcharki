@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&locale=en" alt="fcharki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcharki&" alt="fcharki" /></p>
-<p><img src"https://res.cloudinary.com/practicaldev/image/fetch/s--eDUx93PJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.sanity.io/images/82qqyrei/production/d0eab98cd583f0b0db13afd90288b53ad5e14e59-828x815.gif"></p>
