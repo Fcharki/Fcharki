@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👨‍💻 Some of my projects are available at [https://fcharki.github.io/fcharki-portfolio/](https://fcharki.github.io/fcharki-portfolio/)
-
 - 📫 How to reach me **fadmaproco@gmail.com**
 
 - ⚡ Fun fact **I love cats**
