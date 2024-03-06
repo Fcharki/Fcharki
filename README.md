@@ -1,20 +1,12 @@
 <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg" width="100%">
-<h1 align="center">Hi 👋, I'm Fadma Charki</h1>
-<h3 align="center">A passionate full stack developer from Morocco</h3>
-<img  align="center" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fcharki&label=Profile%20views&color=0e75b6&style=flat" alt="fcharki" /> </p>
-
+<h1 align="center" style="font-size: 35px;">Hi 👋, I'm Fadma Charki</h1>
+<h2 align="center">A passionate full stack developer from Morocco</h2>
+<img  align="center" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Express**
-
-- 📫 How to reach me **fadmaproco@gmail.com**
-
-- ⚡ Fun fact **I love cats**
-<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" >
-
-<h3 align="left">Connect with me:</h3>
+<h4> - 🌱 I’m currently learning Express </h4>
+<h4> - 📫 How to reach me : fadmaproco@gmail.com </h4>
+<h4> - ⚡ Fun fact : I love cats 🐈</h4>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/fadma charki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadma charki" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/fki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fki" height="30" width="40" /></a>
