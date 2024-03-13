@@ -8,8 +8,8 @@
 <h4> - ⚡ Fun fact : I love cats 🐈</h4>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/fadma charki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadma charki" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/fki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadma charki" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22020367/fki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
