@@ -4,7 +4,7 @@
 <img  align="center" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h4> - 🌱 I’m currently learning Express </h4>
-<h4> - 👨‍💻 Some of my projects are available at https://fcharki.github.io/My-personal-portfolio/ </h4>
+<h4> - 👨‍💻 Some of my projects are available at : https://fcharki.github.io/My-personal-portfolio/ </h4>
 <h4> - 📫 How to reach me : fadmaproco@gmail.com </h4>
 <h4> - ⚡ Fun fact : I love cats 🐈</h4>
 <h2 align="left">Connect with me:</h2>
