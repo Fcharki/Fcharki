@@ -6,7 +6,6 @@
 <h4> - 🌱 I’m currently learning Express </h4>
 <h4> - 👨‍💻 Some of my projects are available at : https://fcharki.github.io/My-personal-portfolio/ </h4>
 <h4> - 📫 How to reach me : fadmaproco@gmail.com </h4>
-<h4> - ⚡ Fun fact : I love cats 🐈</h4>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadma charki" height="30" width="40" /></a>
