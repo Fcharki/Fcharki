@@ -4,7 +4,7 @@
 <h2 align="center">A passionate full stack developer from Morocco</h2>
 
 <div align="center">
-  <img  align="center" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
+  <img align="center" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 </div>
 
 <p align="left">
@@ -13,7 +13,7 @@
 
 <h4> - 🌱 I’m currently learning MERN Stack </h4>
 <h4> - 👨‍💻 Some of my projects are available at: <a href="https://fcharki.github.io/My-personal-portfolio/">My Personal Portfolio</a> </h4>
-<h4> - 📫 How to reach me: <a href="mailto:fadmaproco@gmail.com">fadmaproco@gmail.com</a> </h4>
+<h4> - 📫 How to reach me: <a href="mailto:fadmaproco@gmail.com">fadma.charki101@gmail.com</a> </h4>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -39,7 +39,6 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcharki&show_icons=true&locale=en&layout=compact" alt="fcharki" /></p>
 
