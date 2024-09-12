@@ -13,7 +13,7 @@
 
 <h4> - 🌱 I’m currently learning MERN Stack </h4>
 <h4> - 👨‍💻 Some of my projects are available at: <a href="https://fcharki.github.io/My-personal-portfolio/">My Personal Portfolio</a> </h4>
-<h4> - 📫 How to reach me: <a href="mailto:fadmaproco@gmail.com">fadma.charki101@gmail.com</a> </h4>
+<h4> - 📫 How to reach me: <a href="mailto:fadma.charki101@gmail.com">fadma.charki101@gmail.com</a> </h4>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
