@@ -11,8 +11,8 @@
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
 
-<h4> - 🌱 I’m currently learning MERN Stack </h4>
-<h4> - 👨‍💻 Some of my projects are available at: <a href="https://fcharki.github.io/My-personal-portfolio/">My Personal Portfolio</a> </h4>
+<h4> - 🌱 I’m currently learning Wordpress </h4>
+<!-- <h4> - 👨‍💻 Some of my projects are available at: <a href="https://fcharki.github.io/My-personal-portfolio/">My Personal Portfolio</a> </h4> -->
 <h4> - 📫 How to reach me: <a href="mailto:fadma.charki101@gmail.com">fadma.charki101@gmail.com</a> </h4>
 
 <h2 align="left">Connect with me:</h2>
