@@ -23,7 +23,7 @@
 <p align="center" style="font-size: 24px; margin-bottom: 30px; color: #6EBB66;">🌱 Django which is a Python framework that makes<br/> it easier to create web applications from concept to completion as quickly as possible.</p>
 
 <h3 align="center" style="margin-top: 10px; font-size: 24px; color: #6B5B95; margin-bottom: 10px;">Get in Touch:</h3>
-<p align="center" style="font-size: 20px; margin-bottom: 40px;"><a href="mailto:fadma.charki101@gmail.com" style="text-decoration: none; color: #FF6F61;">📫 fadma.charki101@gmail.com</a></p>
+<p align="center" style="font-size: 25px; font-weight: bold; margin-bottom: 40px;"><a href="mailto:fadma.charki101@gmail.com" style="text-decoration: none;  color: #FF6F61;">📫 fadma.charki101@gmail.com</a></p>
 
 <!-- Skills Section -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🛠️ Technologies & Tools:</h2>
