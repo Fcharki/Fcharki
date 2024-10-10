@@ -49,12 +49,14 @@
 <!-- GitHub Stats Section -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
 <p align="center" style="margin-bottom: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 15px; border: 2px solid #6EBB66;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=1E1E1E&title_color=FF6F61&icon_color=6EBB66&text_color=FFFFFF&border_color=#FFFFFF" alt="GitHub Stats" style="border-radius: 15px; border: 2px solid #FFFFFF;" />
 </p>
 
 <p align="center" style="margin-bottom: 40px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcharki&" alt="GitHub Streak Stats" style="border-radius: 15px; border: 2px solid #6EBB66;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcharki&theme=dark&border_radius=15&ring_color=FF6F61&background_color=1E1E1E&stroke=6EBB66&currStreakNum=FF6F61&sideLabels=6EBB66&sideLabelColor=FF6F61&dates=6EBB66" alt="GitHub Streak Stats" style="border-radius: 15px; border: 2px solid #FF6F61;"/>
 </p>
+
+
 
 <!-- Closing Statement -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h2>
