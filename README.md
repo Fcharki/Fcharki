@@ -8,12 +8,12 @@
 <h2 align="center" style="font-size: 30px; color: #6B5B95; margin-bottom: 40px;">A Passionate Full Stack Web Developer from Morocco</h2>
 
 <!-- Animated GIF -->
-<div align="center" style="margin-bottom: 40px;">
+<div align="center" style="margin-bottom: 60px;">
   <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="600px" style="border-radius: 15px; border: 3px solid #FF6F61;">
 </div>
 
 <!-- Badges Section -->
-<p align="center" style="margin-bottom: 40px;">
+<p align="center"  style="margin-top: 90px;"">
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00A89D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/22020367/fki" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
