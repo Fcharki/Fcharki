@@ -57,7 +57,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcharki&theme=dark&border_radius=15&ring_color=FF6F61&background_color=1E1E1E&stroke=6EBB66&currStreakNum=FF6F61&sideLabels=6EBB66&sideLabelColor=FF6F61&dates=6EBB66" alt="GitHub Streak Stats" style="border-radius: 15px; border: 2px solid #FF6F61;"/>
 </p>
 
-
-
 <!-- Closing Statement -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h2>
