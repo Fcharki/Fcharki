@@ -1,11 +1,19 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Fcharki&style=flat-square&color=blue)
 <!-- Hero Image -->
-<p align="center" style="margin-bottom: 40px;">
-  <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg" width="100%">
-</p>
+<div align="center" style="margin-bottom: 60px;">
+  <!-- Background Image -->
+  <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg" width="100%" style="border-radius: 10px;">
+
+  <!-- Typing Animation -->
+  <div style="margin-top: 40px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&align=center&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Web+Developer;Always+learning+new+things!&font_size=40" />
+  </div>
+</div>
+
 
 <!-- Main Header -->
-![Profile Views](https://komarev.com/ghpvc/?username=Fcharki)
 <h1 align="center" style="font-size: 50px; color: #FF6F61; margin-bottom: 10px;">Hi 👋, I'm Fadma Charki</h1>
+
 <h2 align="center" style="font-size: 30px; color: #6B5B95; margin-bottom: 40px;">A Passionate Full Stack Web Developer from Morocco</h2>
 
 <!-- Animated GIF -->
@@ -57,9 +65,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=1E1E1E&title_color=FF6F61&icon_color=6EBB66&text_color=FFFFFF&border_color=#FFFFFF" alt="GitHub Stats" style="border-radius: 15px; border: 2px solid #FFFFFF;" />
 </p>
 
+<!-- Top Langs -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=1E1E1E&text_color=F7F7F7&border_radius=15&hide_border=false&border=2&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7" />
+</p>
+
+<!--
 <p align="center" style="margin-bottom: 40px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcharki&theme=dark&border_radius=15&ring_color=FF6F61&background_color=1E1E1E&stroke=6EBB66&currStreakNum=FF6F61&sideLabels=6EBB66&sideLabelColor=FF6F61&dates=6EBB66" alt="GitHub Streak Stats" style="border-radius: 15px; border: 2px solid #FF6F61;"/>
 </p>
+-->
 
 <!-- Closing Statement -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h2>
+
