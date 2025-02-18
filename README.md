@@ -4,6 +4,7 @@
 </p>
 
 <!-- Main Header -->
+![Profile Views](https://komarev.com/ghpvc/?username=Fcharki)
 <h1 align="center" style="font-size: 50px; color: #FF6F61; margin-bottom: 10px;">Hi 👋, I'm Fadma Charki</h1>
 <h2 align="center" style="font-size: 30px; color: #6B5B95; margin-bottom: 40px;">A Passionate Full Stack Web Developer from Morocco</h2>
 
