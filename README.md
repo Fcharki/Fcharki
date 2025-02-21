@@ -4,17 +4,16 @@
   <!-- Background Image -->
   <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg" width="100%" style="border-radius: 10px;">
 
-  <!-- Typing Animation -->
-  <div style="margin-top: 40px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&align=center&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Web+Developer;Always+learning+new+things!&font_size=40" />
-  </div>
-</div>
+
 
 
 <!-- Main Header -->
 <h1 align="center" style="font-size: 50px; color: #FF6F61; margin-bottom: 10px;">Hi 👋, I'm Fadma Charki</h1>
-
-<h2 align="center" style="font-size: 30px; color: #6B5B95; margin-bottom: 40px;">A Passionate Full Stack Web Developer from Morocco</h2>
+  <!-- Typing Animation -->
+  <div style="margin-top: 40px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&align=center&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Web+Developer!;Always+learning+new+things!&font_size=40" />
+  </div>
+</div>
 
 <!-- Animated GIF -->
 <div align="center" style="margin-bottom: 60px;">
