@@ -57,6 +57,7 @@
   <a href="https://laravel.com" target="_blank"><img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="Laravel" width="50" height="50" style="margin: 15px;"/></a>
 </p>
 
+
 <!-- GitHub Stats Section -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
 <p align="center" style="margin-bottom: 40px;">
@@ -69,7 +70,7 @@
 </p>
 
 <!-- GitHub Achievements -->
-<h2 align="center" style="padding: 40px;">GitHub Accomplishments</h2>
+<h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments</h2>
 <p align="center">
   <a href="https://github.com/Fcharki">
     <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=juicyfresh&column=7&margin-w=20&margin-h=20&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=FFFFFF" alt="Fcharki's GitHub achievements" />
