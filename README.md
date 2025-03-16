@@ -70,7 +70,7 @@
 </p>
 
 <!-- GitHub Achievements -->
-<h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments</h2>
+<h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments:</h2>
 <p align="center" style="padding: 100px;">
   <a href="https://github.com/Fcharki">
     <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=juicyfresh&column=7&margin-w=20&margin-h=20&no-bg=true&no-frame=false&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=FFFFFF" alt="Fcharki's GitHub achievements" />
