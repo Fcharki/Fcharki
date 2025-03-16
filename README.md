@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Fcharki&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
+
 
 <!-- Hero Image -->
 <div align="center" style="margin-bottom: 60px;">
@@ -63,18 +63,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=1E1E1E&title_color=FF6F61&icon_color=6EBB66&text_color=FFFFFF&border_color=#FFFFFF" alt="GitHub Stats" style="border-radius: 15px; border: 2px solid #FFFFFF;" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fcharki)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- github states -->
+<p align="center" style="margin-bottom: 40px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcharki&theme=dark&border_radius=15&ring_color=FF6F61&background_color=1E1E1E&stroke=6EBB66&currStreakNum=FF6F61&sideLabels=6EBB66&sideLabelColor=FF6F61&dates=6EBB66" alt="GitHub Streak Stats" style="border-radius: 15px; border: 2px solid #FF6F61;"/>
+</p>
+
+<!-- GitHub Achievements -->
+<h2 align="center" style="padding: 40px;">GitHub Accomplishments</h2>
+<p align="center">
+  <a href="https://github.com/Fcharki">
+    <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=juicyfresh&column=7&margin-w=20&margin-h=20&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=FFFFFF" alt="Fcharki's GitHub achievements" />
+  </a>
+</p>
 
 <!-- Top Langs -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=1E1E1E&text_color=F7F7F7&border_radius=15&hide_border=false&border=2&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7" />
 </p>
 
-<!--
-<p align="center" style="margin-bottom: 40px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcharki&theme=dark&border_radius=15&ring_color=FF6F61&background_color=1E1E1E&stroke=6EBB66&currStreakNum=FF6F61&sideLabels=6EBB66&sideLabelColor=FF6F61&dates=6EBB66" alt="GitHub Streak Stats" style="border-radius: 15px; border: 2px solid #FF6F61;"/>
-</p>
--->
 
 <!-- Closing Statement -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h2>
