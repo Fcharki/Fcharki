@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Fcharki&color=green)
+
 <!-- Hero Image -->
 <div align="center" style="margin-bottom: 60px;">
   <!-- Background Image -->
