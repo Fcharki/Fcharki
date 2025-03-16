@@ -13,10 +13,10 @@
   </div>
 </div>
 
-<!-- Animated GIF -->
+<!-- Animated GIF 
 <div align="center" style="margin-bottom: 60px;">
   <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="600px" style="border-radius: 15px; border: 3px solid #FF6F61;">
-</div>
+</div> -->
 
 <!-- Badges Section -->
 <p align="center"  style="margin-top: 90px;"">
@@ -71,9 +71,9 @@
 
 <!-- GitHub Achievements -->
 <h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments</h2>
-<p align="center">
+<p align="center" style="padding: 100px;">
   <a href="https://github.com/Fcharki">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=juicyfresh&column=7&margin-w=20&margin-h=20&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=FFFFFF" alt="Fcharki's GitHub achievements" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=juicyfresh&column=7&margin-w=20&margin-h=20&no-bg=true&no-frame=false&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=FFFFFF" alt="Fcharki's GitHub achievements" />
   </a>
 </p>
 
@@ -81,7 +81,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=1E1E1E&text_color=F7F7F7&border_radius=15&hide_border=false&border=2&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7" />
 </p>
-
 
 <!-- Closing Statement -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h2>
