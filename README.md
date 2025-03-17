@@ -64,18 +64,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=1E1E1E&title_color=FF6F61&icon_color=6EBB66&text_color=FFFFFF&border_color=#FFFFFF" alt="GitHub Stats" style="border-radius: 15px; border: 2px solid #FFFFFF;" />
 </p>
 
-<!-- github states  SOMEHOW THIS STOPPPED WORKING
+<!-- github states
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
 <p align="center" style="margin-bottom: 40px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcharki&theme=dark&border_radius=15&ring_color=FF6F61&background_color=1E1E1E&stroke=6EBB66&currStreakNum=FF6F61&sideLabels=6EBB66&sideLabelColor=FF6F61&dates=6EBB66" alt="GitHub Streak Stats" style="border-radius: 15px; border: 2px solid #FF6F61;"/>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Fcharki&theme=highcontrast&cache-bust=1" alt="GitHub Streak" /></a>
+
 </p> -->
 
-<!-- GitHub Achievements SOMEHOW THIS STOPPPED WORKING
+
+<!-- GitHub Achievements  -->
 <h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments:</h2>
-<p align="center" style="padding: 100px;">
-  <a href="https://github.com/Fcharki">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=juicyfresh&column=7&margin-w=20&margin-h=20&no-bg=true&no-frame=false&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=FFFFFF" alt="Fcharki's GitHub achievements" />
-  </a>
-</p> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fcharki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- Top Langs -->
 <p align="center">
