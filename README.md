@@ -64,12 +64,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=1E1E1E&title_color=FF6F61&icon_color=6EBB66&text_color=FFFFFF&border_color=#FFFFFF" alt="GitHub Stats" style="border-radius: 15px; border: 2px solid #FFFFFF;" />
 </p>
 
-<!-- github states
+<!-- github states-->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
 <p align="center" style="margin-bottom: 40px;">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Fcharki&theme=highcontrast&cache-bust=1" alt="GitHub Streak" /></a>
 
-</p> -->
+</p> 
 
 
 <!-- GitHub Achievements  -->
