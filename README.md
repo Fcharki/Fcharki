@@ -71,17 +71,18 @@
 
 </p> 
 
-
-<!-- GitHub Achievements  -->
-<h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments:</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fcharki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <!-- Top Langs -->
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻</>Top Languages:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=1E1E1E&text_color=F7F7F7&border_radius=15&hide_border=false&border=2&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7" />
 </p>
+
+<!-- GitHub Achievements  -->
+<h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments:</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=onedark"  alt="github-achievements"/>
+</p>
+
 
 <!-- Closing Statement -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h2>
