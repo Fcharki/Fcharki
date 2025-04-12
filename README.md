@@ -9,7 +9,7 @@
 <h1 align="center" style="font-size: 50px; color:green; margin-bottom: 10px;">Hi 👋, I'm Fadma! </h1>
   <!-- Typing Animation -->
   <div style="margin-top: 40px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=500&align=center&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Web+And+App+Developer!;Mern+Stack+Artist+And+Laravel+Artisan!;Always+learning+new+things!&font_size=45" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=600&align=center&lines=Hello+Geeks!+Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Web+And+App+Developer!;Mern+Stack+Artist+And+Laravel+Artisan!;Always+Passionate+About+learning+new+things!&font_size=45" />
   </div>
 </div>
 
