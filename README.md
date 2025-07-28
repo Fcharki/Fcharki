@@ -38,9 +38,9 @@
 <!-- Skills Section -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🛠️ Technologies & Tools:</h2>
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://epss.ucla.edu/static/bootstrap-5.2.0/site/static/docs/5.2/assets/brand/bootstrap-social-logo.png" alt="Bootstrap" width="50" height="50" style="margin: 15px;"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="55" height="55" style="margin: 15px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-909x1024-ig4gm9k7.png" alt="Express" width="50" height="50" style="margin: 15px;"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="margin: 15px;"/></a>
@@ -54,7 +54,7 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="Laravel" width="50" height="50" style="margin: 15px;"/></a>
+  <a href="https://laravel.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50" height="50" style="margin: 15px;"/></a>
 </p>
 
 
