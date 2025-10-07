@@ -24,6 +24,8 @@
   <a href="https://stackoverflow.com/users/22020367/fki" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
 
+<!-- Snack animation section -->
+<h2 align="center" style="margin-top: 30px; color: #FF6F61">🐍 Snake on the Hunt</h2> 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fcharki/Fcharki/blob/output/github-snake-dark.svg">
@@ -31,12 +33,6 @@
     <img alt="github-snake" src="https://github.com/Fcharki/Fcharki/blob/output/github-snake.svg">
   </picture>
 </p>
-
-
-<!-- <p align="center">
-  <img src="https://github.com/Fcharki/Fcharki/blob/output/ocean.gif" alt="GitHub Snake Animation">
-</p> -->
-
 
 <!-- Learning and Contact -->
 <!--
