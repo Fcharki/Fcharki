@@ -32,9 +32,10 @@
   </picture>
 </p>
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github.com/Fcharki/Fcharki/blob/output/ocean.gif" alt="GitHub Snake Animation">
-</p>
+</p> -->
 
 
 <!-- Learning and Contact -->
