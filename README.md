@@ -29,59 +29,59 @@
 <h3 align="center" style="margin-top: 20px; font-size: 24px; color: #6B5B95; margin-bottom: 10px;">Currently Learning:</h3>
 <p align="center" style="font-size: 24px; margin-bottom: 30px; color: #6EBB66;">🌱 Django which is a Python framework that makes<br/> it easier to create web applications from concept to completion as quickly as possible.</p>
 -->
-<h3 align="center" style="margin-top: 10px; font-size: 24px; color: #6B5B95; margin-bottom: 10px;">Get in Touch:</h3>
+<h2 align="center" style="margin-top: 10px; font-size: 24px; color: #6B5B95; margin-bottom: 10px;">Get in Touch:</h2>
 <p align="center" style="font-size: 25px; font-weight: bold; margin-bottom: 40px;"><a href="mailto:fadma.charki101@gmail.com" style="text-decoration: none;  color: #FF6F61;">📫 fadma.charki101@gmail.com</a></p>
 
 <!-- Portfolio Section 
 <p style="font-size: 24px; margin-bottom: 30px; color: #6EBB66;" align="center">Take a look at my portfolio : <a href="https://portfolio-2tn9zti1r-fadmas-projects.vercel.app/" target="_blank"><strong>Portfolio</strong></a></p>-->
 
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🛠️ Technologies & Tools:</h2> 
+<h1 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🛠️ Technologies & Tools:</h1> 
 
-<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Frontend Development</h3> 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/>
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Frontend Development</h2> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="70" height="70"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Styling & Design</h3> 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Styling & Design</h2> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="80" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="70" height="70"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Backend Development</h3> 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Backend Development</h2> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70"/>
+  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="70" height="70"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Databases</h3> 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Databases</h2> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">DevOps & Tools</h3> 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">DevOps & Tools</h2> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="70" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="70" height="70"/>
 </p>
 
 <!-- The cute animations Section -->
@@ -94,7 +94,7 @@
 
 
 <!-- GitHub Stats Section -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
+<h1 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h1>
 <p align="center" style="margin-bottom: 40px;">
   <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=darkt&border_radius=15&bg_color=1E1E1E&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=#FFFFFF" alt="GitHub Stats" style="border-radius: 15px; border: 2px solid #FFFFFF;" />
 </p>
@@ -107,18 +107,18 @@
 </p> 
 
 <!-- Top Langs -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻</>Top Languages:</h2>
+<h1 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻</>Top Languages:</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=000000&text_color=F7F7F7&border_radius=15&hide_border=false&border=2&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7" />
 </p>
 
 <!-- GitHub Achievements  -->
-<h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments:</h2>
+<h1 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments:</h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=onedark"  alt="github-achievements"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4" alt="github-achievements"/>
 </p>
 
 
 <!-- Closing Statement -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h2>
+<h1 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h1>
 
