@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Generate snake files
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.3.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
