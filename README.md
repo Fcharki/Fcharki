@@ -108,10 +108,10 @@
 <h4 align="center">Because coding is better with friends 🐱🐿️💻</h4>
 <hr style="margin-top: 30px; color: #5D3FD3; margin-bottom: 20px;" />
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding non stop">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding non stop"  title="This coder is deeply focused!">
+    <img src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding squirrel"  title="This coder enjoys coding!">
   <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding bird"  title="This coder never sleeps!">
-  <img src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding squirrel">
-  <img src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding cat">
+  <img src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding cat"  title="This coder needs to recharge!">
 </p>
 
 <p align="center">
