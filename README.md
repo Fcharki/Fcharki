@@ -49,69 +49,74 @@
 <p style="font-size: 24px; margin-bottom: 30px; color: #6EBB66;" align="center">Take a look at my portfolio : <a href="https://portfolio-2tn9zti1r-fadmas-projects.vercel.app/" target="_blank"><strong>Portfolio</strong></a></p>-->
 
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🛠️ Technologies & Tools:</h2> 
-
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Frontend Development</h3> 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="70" height="70"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"/></a>
+  <a href="https://react.dev/reference/react" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70" height="70"/></a>
+  <a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70"/></a>
+  <a href="https://redux.js.org/introduction/getting-started" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="70" height="70"/></a>
 </p>
 <p align="center">
 <span style="color:#FF6F61;">──────────</span>
 </p>
-
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Styling & Design</h3> 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="70" height="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="80" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="70" height="70"/>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="70" height="70"/></a>
+  <a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="80" height="70"/></a>
+  <a href="https://www.figma.com/community" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="70" height="70"/></a>
 </p>
 <p align="center">
 <span style="color:#FF6F61;">──────────</span>
 </p>
-
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Backend Development</h3> 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70"/>
-  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="70" height="70"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
+  <a href="https://nodejs.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70"/></a>
+  <a href="https://expressjs.com/en/4x/api.html" target="_blank"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" width="70" height="70"/></a>
+  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="70" height="70"/></a>
+  <a href="https://laravel.com/docs" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="70" height="70"/></a>
+  <a href="https://docs.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/></a>
 </p>
 <p align="center">
 <span style="color:#FF6F61;">──────────</span>
 </p>
-
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Databases</h3> 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70"/>
+  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70"/></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70"/></a>
 </p>
 <p align="center">
 <span style="color:#FF6F61;">──────────</span>
 </p>
-
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">DevOps & Tools</h3> 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="70" height="70"/>
+  <a href="https://docs.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="70" height="70"/></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="70" height="70"/></a>
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
 </p>
+
 <!-- The cute animations Section -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🐾 Coding party</h2> 
-<h4 align="center">Because coding is better with friends 🐱🐿️💻</h4>
-<hr style="margin-top: 30px; color: #5D3FD3; margin-bottom: 20px;" />
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding non stop"  title="This coder is deeply focused!">
-    <img src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding squirrel"  title="This coder enjoys coding!">
-  <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding bird"  title="This coder never sleeps!">
-  <img src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding cat"  title="This coder needs to recharge!">
+  <picture>
+    <source srcset="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" type="image/gif">
+    <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding non stop" title="This coder is deeply focused!">
+  </picture>
+ <picture>
+  <source srcset="https://media.tenor.com/NXj-4kf9G2oAAAAC/ai-grok.gif" type="image/gif">
+  <img src="https://media.tenor.com/NXj-4kf9G2oAAAAC/ai-grok.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding penguin" title="This coder enjoys coding!">
+</picture>
+  <picture>
+    <source srcset="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" type="image/gif">
+    <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding bird" title="This coder never sleeps!">
+  </picture>
+  <picture>
+    <source srcset="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" type="image/gif">
+    <img src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding cat" title="This coder needs to recharge!">
+  </picture>
 </p>
 
 <p align="center">
