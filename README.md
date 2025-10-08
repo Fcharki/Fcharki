@@ -100,6 +100,10 @@
 </p>
 
 <!-- The cute animations Section -->
+<!-- The cute animations Section -->
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🐾 Coding party</h2> 
+<h4 align="center" style="margin-top: 20px; margin-bottom: 30px;">Because coding is better with friends 🐱🐿️💻</h4>
+<!-- <hr style="margin-top: 30px; color: #5D3FD3; margin-bottom: 20px;" /> -->
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <picture>
     <source srcset="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" type="image/gif">
