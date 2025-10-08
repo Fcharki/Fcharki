@@ -41,6 +41,9 @@
 -->
 <h2 align="center" style="margin-top: 10px; font-size: 24px; color: #6B5B95; margin-bottom: 10px;">Get in Touch:</h2>
 <p align="center" style="font-size: 25px; font-weight: bold; margin-bottom: 40px;"><a href="mailto:fadma.charki101@gmail.com" style="text-decoration: none;  color: #FF6F61;">📫 fadma.charki101@gmail.com</a></p>
+<p align="center">
+<span style="color:#FF6F61;">─────────────────────────────────────</span>
+</p>
 
 <!-- Portfolio Section 
 <p style="font-size: 24px; margin-bottom: 30px; color: #6EBB66;" align="center">Take a look at my portfolio : <a href="https://portfolio-2tn9zti1r-fadmas-projects.vercel.app/" target="_blank"><strong>Portfolio</strong></a></p>-->
@@ -57,8 +60,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="70" height="70"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+<span style="color:#FF6F61;">──────────</span>
+</p>
 
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Styling & Design</h3> 
 <p align="center">
@@ -66,8 +70,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="80" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="70" height="70"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+<span style="color:#FF6F61;">──────────</span>
+</p>
 
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Backend Development</h3> 
 <p align="center">
@@ -77,57 +82,74 @@
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+<span style="color:#FF6F61;">──────────</span>
+</p>
 
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Databases</h3> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+<span style="color:#FF6F61;">──────────</span>
+</p>
 
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">DevOps & Tools</h3> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="70" height="70"/>
 </p>
-
+<p align="center">
+<span style="color:#FF6F61;">─────────────────────────────────────</span>
+</p>
 <!-- The cute animations Section -->
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🐾 Coding party</h2> 
+<h4 align="center">Because coding is better with friends 🐱🐿️💻</h4>
 <hr style="margin-top: 30px; color: #5D3FD3; margin-bottom: 20px;" />
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="300" height="200" style="object-fit: cover; border-radius: 10px;" alt="coding non stop">
-  <img src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" width="300" height="200" style="object-fit: cover; border-radius: 10px;" alt="coding squirrel">
-  <img src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" width="300" height="200" style="object-fit: cover; border-radius: 10px;" alt="coding cat">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding non stop">
+  <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding bird"  title="This coder never sleeps!">
+  <img src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding squirrel">
+  <img src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" width="270" height="220" style="object-fit: cover; border-radius: 10px;" alt="coding cat">
 </p>
 
-
+<p align="center">
+<span style="color:#FF6F61;">─────────────────────────────────────</span>
+</p>
 <!-- GitHub Stats Section -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
 <p align="center" style="margin-bottom: 40px;">
   <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=darkt&border_radius=15&bg_color=1E1E1E&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=#FFFFFF" alt="GitHub Stats" style="border-radius: 15px; border: 2px solid #FFFFFF;" />
 </p>
-
+<p align="center">
+<span style="color:#FF6F61;">─────────────────────────────────────</span>
+</p>
 <!-- github states-->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
 <p align="center" style="margin-bottom: 40px;">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Fcharki&theme=highcontrast&cache-bust=1" alt="GitHub Streak" /></a>
 
 </p> 
-
+<p align="center">
+<span style="color:#FF6F61;">─────────────────────────────────────</span>
+</p>
 <!-- Top Langs -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻</>Top Languages:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=000000&text_color=F7F7F7&border_radius=15&hide_border=false&border=2&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7" />
 </p>
-
+<p align="center">
+<span style="color:#FF6F61;">─────────────────────────────────────</span>
+</p>
 <!-- GitHub Achievements  -->
 <h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments:</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4" alt="github-achievements"/>
 </p>
-
+<p align="center">
+<span style="color:#FF6F61;">─────────────────────────────────────</span>
+</p>
 
 <!-- Closing Statement -->
 <h1 align="center" style="margin-top: 30px; color:#FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h1>
