@@ -40,13 +40,18 @@
 <p align="center" style="font-size: 24px; margin-bottom: 30px; color: #6EBB66;">🌱 Django which is a Python framework that makes<br/> it easier to create web applications from concept to completion as quickly as possible.</p>
 -->
 <h2 align="center" style="margin-top: 10px; font-size: 24px; color: #6B5B95; margin-bottom: 10px;">Get in Touch:</h2>
-<p align="center" style="font-size: 25px; font-weight: bold; margin-bottom: 40px;"><a href="mailto:fadma.charki101@gmail.com" style="text-decoration: none;  color: #FF6F61;">📫 fadma.charki101@gmail.com</a></p>
-<p align="center">
-<span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p>
+<h4 align="center" style="font-size: 25px; font-weight: bold; margin-bottom: 40px;"><a href="mailto:fadma.charki101@gmail.com" style="text-decoration: none;  color: #FF6F61;">📫 fadma.charki101@gmail.com</a></h4>
 
-<!-- Portfolio Section 
-<p style="font-size: 24px; margin-bottom: 30px; color: #6EBB66;" align="center">Take a look at my portfolio : <a href="https://portfolio-2tn9zti1r-fadmas-projects.vercel.app/" target="_blank"><strong>Portfolio</strong></a></p>-->
+<div align="center">
+  <h3 style="font-size: 24px; margin-bottom: 30px; color: #6EBB66;">
+    👀 Take a snap at my portfolio : 
+    <a href="https://fadmacharki.netlify.app/" target="_blank" style="color: #6EBB66; text-decoration: underline;">
+      <strong>Portfolio</strong>
+    </a>
+  </h3>
+  <span style="color: #FF6F61;">─────────────────────────────────────</span>
+</div>
+
 
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🛠️ Technologies & Tools:</h2> 
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Frontend Development</h3> 
