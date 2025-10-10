@@ -126,35 +126,56 @@
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
 </p>
+
 <!-- GitHub Stats Section -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
 <p align="center" style="margin-bottom: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=darkt&border_radius=15&bg_color=1E1E1E&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=#FFFFFF" alt="GitHub Stats" style="border-radius: 15px; border: 2px solid #FFFFFF;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=1E1E1E&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=default&border_radius=15&bg_color=FFFFFF&title_color=FB8C00&icon_color=6EBB66&text_color=000000&border_color=E0E0E0">
+    <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=1E1E1E&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=FFFFFF" alt="GitHub Stats" style="border-radius: 15px;">
+  </picture>
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
 </p>
-<!-- github states-->
+
+<!-- GitHub Streaks -->
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
 <p align="center" style="margin-bottom: 40px;">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Fcharki&theme=highcontrast&cache-bust=1" alt="GitHub Streak" /></a>
-
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Fcharki&theme=highcontrast">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Fcharki&theme=default">
+      <img src="https://streak-stats.demolab.com/?user=Fcharki&theme=highcontrast" alt="GitHub Streak">
+    </picture>
+  </a>
 </p> 
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
 </p>
+
 <!-- Top Langs -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻</>Top Languages:</h2>
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻 Top Languages:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=000000&text_color=F7F7F7&border_radius=15&hide_border=false&border=2&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=000000&text_color=F7F7F7&border_radius=15&hide_border=false&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=FFFFFF&text_color=000000&border_radius=15&hide_border=false&border_color=E0E0E0&card_width=500&langs_count=6&title_color=000000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=000000&text_color=F7F7F7&border_radius=15&hide_border=false&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7" alt="Top Languages">
+  </picture>
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
 </p>
+
 <!-- GitHub Achievements  -->
 <h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Accomplishments:</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4" alt="github-achievements"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=flat&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4" alt="github-achievements">
+  </picture>
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
