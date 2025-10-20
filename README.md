@@ -66,15 +66,18 @@
 <p align="center">
 <span style="color:#FF6F61;">──────────</span>
 </p>
+
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Styling & Design</h3> 
 <p align="center">
   <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/></a>
+  <a href="https://ui.shadcn.com/docs" target="_blank"><img src="https://ui.shadcn.com/apple-touch-icon.png" alt="Shadcn" width="57" height="50"/></a>
   <a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="57" height="50"/></a>
   <a href="https://www.figma.com/community" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/></a>
 </p>
 <p align="center">
-<span style="color:#FF6F61;">──────────</span>
+  <span style="color:#FF6F61;">──────────</span>
 </p>
+
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Backend Development</h3> 
 <p align="center">
   <a href="https://nodejs.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
