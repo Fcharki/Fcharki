@@ -186,9 +186,9 @@
 <h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Activity Graph:</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=My%20Activity%20Graph&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=My%20Activity%20Graph&hide_border=true&bg_color=ffffff&color=1f6feb&line=1f6feb&point=1f6feb&area=true&area_color=1f6feb">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=My%20Activity%20Graph&hide_border=true" alt="github-activity-graph">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Fcharki's%20Activity%20Graph&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Fcharki's%20Activity%20Graph&hide_border=true&bg_color=ffffff&color=1f6feb&line=1f6feb&point=1f6feb&area=true&area_color=1f6feb">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Fcharki's%20Activity%20Graph&hide_border=true" alt="github-activity-graph">
   </picture>
 </p>
 <p align="center">
