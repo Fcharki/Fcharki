@@ -78,6 +78,9 @@
   <a href="https://nodejs.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
   <a href="https://expressjs.com/en/4x/api.html" target="_blank"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" width="50" height="50"/></a>
   <a href="https://www.php.net/docs.php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+</a>
   <a href="https://laravel.com/docs" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50" height="50"/></a>
   <a href="https://docs.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
 </p>
@@ -87,6 +90,9 @@
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Databases</h3> 
 <p align="center">
   <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
+  <a href="https://www.oracle.com/database/technologies/sql/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="50" height="50"/>
+</a>
   <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></a>
 </p>
 <p align="center">
