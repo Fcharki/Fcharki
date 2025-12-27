@@ -103,7 +103,7 @@
 </p>
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">DevOps & Tools</h3> 
 <p align="center">
-  <a href="https://docs.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
+  <a href="https://docs.docker.com/" target="_blank"><img src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" width="50" height="50"/></a>
   <a href="https://git-scm.com/doc" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
 </p>
 <p align="center">
