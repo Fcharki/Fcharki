@@ -56,6 +56,9 @@
   <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
   <a href="https://react.dev/reference/react" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
   <a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/></a>
+    <a href="https://vuejs.org/guide/introduction.html" target="_blank"><img src="https://images.icon-icons.com/2699/PNG/512/vuejs_logo_icon_168246.png" alt="vue.js" width="50" height="50"/></a>
+       <a href="https://inertiajs.com/docs/v2/getting-started/index" target="_blank"><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" alt="inertia.js" width="50" height="50"/></a>
+    <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank"><img src="https://styles.redditmedia.com/t5_85e8ix/styles/communityIcon_6taxsprcbjra1.png" alt="zustand" width="50" height="50"/></a>
   <a href="https://redux.js.org/introduction/getting-started" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/></a>
 </p>
 <p align="center">
@@ -76,7 +79,7 @@
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Backend Development</h3> 
 <p align="center">
   <a href="https://nodejs.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
-  <a href="https://expressjs.com/en/4x/api.html" target="_blank"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" width="50" height="50"/></a>
+  <a href="https://expressjs.com/en/4x/api.html" target="_blank"><img src="https://images.tute.io/media/topics/icons/express-js.png" alt="Express.js" width="50" height="50"/></a>
   <a href="https://www.php.net/docs.php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></a>
   <a href="https://docs.oracle.com/en/java/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
