@@ -56,9 +56,9 @@
   <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
   <a href="https://react.dev/reference/react" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
   <a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/></a>
-    <a href="https://vuejs.org/guide/introduction.html" target="_blank"><img src="https://images.icon-icons.com/2699/PNG/512/vuejs_logo_icon_168246.png" alt="vue.js" width="50" height="50"/></a>
+    <!-- <a href="https://vuejs.org/guide/introduction.html" target="_blank"><img src="https://images.icon-icons.com/2699/PNG/512/vuejs_logo_icon_168246.png" alt="vue.js" width="50" height="50"/></a>
        <a href="https://inertiajs.com/docs/v2/getting-started/index" target="_blank"><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" alt="inertia.js" width="50" height="50"/></a>
-    <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank"><img src="https://styles.redditmedia.com/t5_85e8ix/styles/communityIcon_6taxsprcbjra1.png" alt="zustand" width="50" height="50"/></a>
+    <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank"><img src="https://styles.redditmedia.com/t5_85e8ix/styles/communityIcon_6taxsprcbjra1.png" alt="zustand" width="50" height="50"/></a> -->
   <a href="https://redux.js.org/introduction/getting-started" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/></a>
 </p>
 <p align="center">
@@ -137,7 +137,7 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
+<!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
 <p align="center" style="margin-bottom: 40px;">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=0&bg_color=000000&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=FFFFFF&hide_border=false&card_width=400">
@@ -147,10 +147,10 @@
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p>
+</p> -->
 
 <!-- GitHub Streaks -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
+<!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
 <p align="center" style="margin-bottom: 40px;">
   <a href="https://git.io/streak-stats">
     <picture>
@@ -162,10 +162,10 @@
 </p> 
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p>
+</p> -->
 
 <!-- Top Langs -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻 Top Languages:</h2>
+<!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻 Top Languages:</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=000000&text_color=F7F7F7&border_radius=15&hide_border=false&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7">
@@ -175,10 +175,10 @@
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p>
+</p> -->
 
 <!-- GitHub Achievements  -->
-<h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Achievements:</h2>
+<!-- <h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Achievements:</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Fcharki&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4">
@@ -188,7 +188,7 @@
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p>
+</p> -->
 
 
 <!-- GitHub Activity Graph  -->
