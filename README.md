@@ -200,10 +200,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Fcharki's%20Activity%20Graph&hide_border=true" alt="github-activity-graph">
   </picture>
 </p>
-<p align="center">
+<!-- <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p>
+</p> -->
 
 <!-- Closing Statement -->
-<h1 align="center" style="margin-top: 30px; color:#FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h1>
+<!-- <h1 align="center" style="margin-top: 30px; color:#FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h1> -->
 
