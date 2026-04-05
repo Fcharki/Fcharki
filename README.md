@@ -38,12 +38,12 @@
 </div> -->
 
 <!-- Snack animation section -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61">🐍 Snake on the Hunt</h2> 
+<h2 align="center" style="margin-top: 30px; color: #FF6F61">🐍 Snake on the Hunt</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fcharki/Fcharki/blob/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fcharki/Fcharki/blob/output/github-snake.svg">
-    <img alt="github-snake" src="https://github.com/Fcharki/Fcharki/blob/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fcharki/Fcharki/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fcharki/Fcharki/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Fcharki/Fcharki/output/github-snake-dark.svg">
   </picture>
 </p>
 
