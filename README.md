@@ -79,7 +79,7 @@
 <h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Backend Development</h3> 
 <p align="center">
   <a href="https://nodejs.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
-  <a href="https://expressjs.com/en/4x/api.html" target="_blank"><img src="https://images.tute.io/media/topics/icons/express-js.png" alt="Express.js" width="50" height="50"/></a>
+  <a href="https://expressjs.com/en/4x/api.html" target="_blank"><img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="Express.js" width="50" height="50"/></a>
   <a href="https://www.php.net/docs.php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></a>
   <a href="https://docs.oracle.com/en/java/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
