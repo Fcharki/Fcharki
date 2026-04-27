@@ -96,26 +96,9 @@
 </p>
 <p align="center"><span style="color:#FF6F61;">─────────────────────────────────────</span></p>
 
-<!-- The cute animations Section -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🐾 Coding party</h2>
-<h4 align="center" style="margin-top: 20px; margin-bottom: 30px;">Because coding is better with friends 🐱🐿️💻</h4>
-
-<p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding non stop" title="This coder is deeply focused!"/>
-  &nbsp;
-  <img src="https://media.tenor.com/NXj-4kf9G2oAAAAC/ai-grok.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding penguin" title="This coder enjoys coding!"/>
-  &nbsp;
-  <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding bird" title="This coder never sleeps!"/>
-  &nbsp;
-  <img src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding cat" title="This coder needs to recharge!"/>
-</p>
-
-<p align="center">
-  <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p>
 
 <!-- GitHub Stats Section -->
-<!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
 <p align="center" style="margin-bottom: 40px;">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=0&bg_color=000000&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=FFFFFF&hide_border=false&card_width=400">
@@ -125,10 +108,10 @@
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p> -->
+</p> 
 
 <!-- GitHub Streaks -->
-<!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
+ <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
 <p align="center" style="margin-bottom: 40px;">
   <a href="https://git.io/streak-stats">
     <picture>
@@ -140,10 +123,10 @@
 </p> 
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p> -->
+</p> 
 
 <!-- Top Langs -->
-<!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻 Top Languages:</h2>
+ <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻 Top Languages:</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=000000&text_color=F7F7F7&border_radius=15&hide_border=false&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7">
@@ -153,7 +136,7 @@
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p> -->
+</p> 
 
 <!-- GitHub Achievements  -->
 <!-- <h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Achievements:</h2>
