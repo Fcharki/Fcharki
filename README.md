@@ -47,93 +47,71 @@
   </picture>
 </p> -->
 
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🛠️ Technologies & Tools:</h2> 
-<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Frontend Development</h3> 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
-  <a href="https://react.dev/reference/react" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
-  <a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/></a>
-    <!-- <a href="https://vuejs.org/guide/introduction.html" target="_blank"><img src="https://images.icon-icons.com/2699/PNG/512/vuejs_logo_icon_168246.png" alt="vue.js" width="50" height="50"/></a>
-       <a href="https://inertiajs.com/docs/v2/getting-started/index" target="_blank"><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" alt="inertia.js" width="50" height="50"/></a>
-    <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank"><img src="https://styles.redditmedia.com/t5_85e8ix/styles/communityIcon_6taxsprcbjra1.png" alt="zustand" width="50" height="50"/></a> -->
-  <a href="https://redux.js.org/introduction/getting-started" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/></a>
-</p>
-<p align="center">
-<span style="color:#FF6F61;">──────────</span>
-</p>
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🛠️ Technologies & Tools:</h2>
 
-<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Styling & Design</h3> 
+<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Frontend Development</h3>
 <p align="center">
-  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/></a>
-  <a href="https://ui.shadcn.com/docs" target="_blank"><img src="https://ui.shadcn.com/apple-touch-icon.png" alt="Shadcn" width="57" height="50"/></a>
-  <a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="57" height="50"/></a>
-  <a href="https://www.figma.com/community" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/>
 </p>
-<p align="center">
-  <span style="color:#FF6F61;">──────────</span>
-</p>
+<p align="center"><span style="color:#FF6F61;">──────────</span></p>
 
-<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Backend Development</h3> 
+<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Styling & Design</h3>
 <p align="center">
-  <a href="https://nodejs.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
-  <a href="https://expressjs.com/en/4x/api.html" target="_blank"><img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="Express.js" width="50" height="50"/></a>
-  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-</a>
-  <a href="https://laravel.com/docs" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50" height="50"/></a>
-  <a href="https://docs.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcn&logoColor=white" alt="Shadcn"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 </p>
-<p align="center">
-<span style="color:#FF6F61;">──────────</span>
-</p>
-<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Databases</h3> 
-<p align="center">
-  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
-  <a href="https://www.oracle.com/database/technologies/sql/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="50" height="50"/>
-</a>
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></a>
-</p>
-<p align="center">
-<span style="color:#FF6F61;">──────────</span>
-</p>
-<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">DevOps & Tools</h3> 
-<p align="center">
-  <a href="https://docs.docker.com/" target="_blank"><img src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" width="50" height="50"/></a>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-</p>
-<p align="center">
-<span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p>
+<p align="center"><span style="color:#FF6F61;">──────────</span></p>
 
+<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Backend Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+</p>
+<p align="center"><span style="color:#FF6F61;">──────────</span></p>
+
+<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+<p align="center"><span style="color:#FF6F61;">──────────</span></p>
+
+<h3 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">DevOps & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+</p>
+<p align="center"><span style="color:#FF6F61;">─────────────────────────────────────</span></p>
 
 <!-- The cute animations Section -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🐾 Coding party</h2> 
+<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🐾 Coding party</h2>
 <h4 align="center" style="margin-top: 20px; margin-bottom: 30px;">Because coding is better with friends 🐱🐿️💻</h4>
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <picture>
-    <source srcset="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" type="image/gif">
-    <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding non stop" title="This coder is deeply focused!">
-  </picture>
-  <picture>
-    <source srcset="https://media.tenor.com/NXj-4kf9G2oAAAAC/ai-grok.gif" type="image/gif">
-    <img src="https://media.tenor.com/NXj-4kf9G2oAAAAC/ai-grok.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding penguin" title="This coder enjoys coding!">
-  </picture>
-  <picture>
-    <source srcset="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" type="image/gif">
-    <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding bird" title="This coder never sleeps!">
-  </picture>
-  <picture>
-    <source srcset="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" type="image/gif">
-    <img src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding cat" title="This coder needs to recharge!">
-  </picture>
-</p>
+
 <p align="center">
-<span style="color:#FF6F61;">─────────────────────────────────────</span>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding non stop" title="This coder is deeply focused!"/>
+  &nbsp;
+  <img src="https://media.tenor.com/NXj-4kf9G2oAAAAC/ai-grok.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding penguin" title="This coder enjoys coding!"/>
+  &nbsp;
+  <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding bird" title="This coder never sleeps!"/>
+  &nbsp;
+  <img src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif" width="200" height="160" style="object-fit: cover; border-radius: 10px;" alt="coding cat" title="This coder needs to recharge!"/>
+</p>
+
+<p align="center">
+  <span style="color:#FF6F61;">─────────────────────────────────────</span>
 </p>
 
 <!-- GitHub Stats Section -->
