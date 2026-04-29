@@ -98,7 +98,7 @@
 
 
 <!-- GitHub Stats Section -->
-<h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
+<!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
 <p align="center" style="margin-bottom: 40px;">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=0&bg_color=000000&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=FFFFFF&hide_border=false&card_width=400">
@@ -108,10 +108,10 @@
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p> 
+</p> -->
 
 <!-- GitHub Streaks -->
- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
+<!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
 <p align="center" style="margin-bottom: 40px;">
   <a href="https://git.io/streak-stats">
     <picture>
@@ -123,7 +123,7 @@
 </p> 
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p> 
+</p> -->
 
 <!-- Top Langs -->
  <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻 Top Languages:</h2>
