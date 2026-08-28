@@ -1,9 +1,7 @@
-
-
 <!-- Hero Image -->
 <div align="center" style="margin-bottom: 60px;">
   <!-- Background Image -->
-  <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg" width="100%" style="border-radius: 10px;">
+  <img src="./image.jpg" width="100%" style="border-radius: 10px;">
 
 <!-- Main Header -->
 <h1 align="center" style="font-size: 50px; color:green; margin-bottom: 10px;">Hi 👋, I'm Fadma! </h1>
@@ -14,9 +12,9 @@
 </div>
 
 <!-- Badges Section -->
-<p align="center"  style="margin-top: 90px;"">
+<p align="center" style="margin-top: 90px;">
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00A89D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/22020367/fki" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://github.com/Fcharki" target="_blank"><img src="https://img.shields.io/github/followers/Fcharki?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub Follow" /></a>
 </p>
 
 <!-- Learning and Contact -->
@@ -37,15 +35,18 @@
   <span style="color: #FF6F61;">─────────────────────────────────────</span>
 </div> -->
 
-<!-- Snack animation section -->
-<!--  <h2 align="center" style="margin-top: 30px; color: #FF6F61">🐍 Snake on the Hunt</h2>
+<!-- Snake animation section -->
+<!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61">🐍 Snake on the Hunt</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fcharki/Fcharki/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fcharki/Fcharki/output/github-snake.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/Fcharki/Fcharki/output/github-snake-dark.svg">
   </picture>
-</p>-->
+</p>
+<p align="center">
+<span style="color: #FF6F61;">─────────────────────────────────────</span>
+</p> -->
 
 <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🛠️ Technologies & Tools:</h2>
 
@@ -86,6 +87,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 <p align="center"><span style="color:#FF6F61;">──────────</span></p>
 
@@ -94,21 +96,21 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
-<p align="center"><span style="color:#FF6F61;">─────────────────────────────────────</span></p>
+<!-- <p align="center"><span style="color:#FF6F61;">─────────────────────────────────────</span></p> -->
 
 
 <!-- GitHub Stats Section -->
 <!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">📊 GitHub Stats:</h2>
 <p align="center" style="margin-bottom: 40px;">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=0&bg_color=000000&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=FFFFFF&hide_border=false&card_width=400">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=default&border_radius=15&bg_color=FFFFFF&title_color=FB8C00&icon_color=6EBB66&text_color=000000&border_color=E0E0E0">
-  <img src="https://github-readme-stats.vercel.app/api?username=fcharki&show_icons=true&count_private=true&theme=dark&border_radius=0&bg_color=000000&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=FFFFFF" alt="GitHub Stats" style="border-radius: 0px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fcharki&show_icons=true&count_private=true&theme=dark&border_radius=0&bg_color=000000&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=FFFFFF&hide_border=false&card_width=400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fcharki&show_icons=true&count_private=true&theme=default&border_radius=15&bg_color=FFFFFF&title_color=FB8C00&icon_color=6EBB66&text_color=000000&border_color=E0E0E0">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fcharki&show_icons=true&count_private=true&theme=dark&border_radius=0&bg_color=000000&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=FFFFFF" alt="GitHub Stats" style="border-radius: 0px;">
 </picture>
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p>-->
+</p> -->
 
 <!-- GitHub Streaks -->
 <!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">🔥 GitHub Streaks:</h2>
@@ -126,7 +128,7 @@
 </p>-->
 
 <!-- Top Langs -->
- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻 Top Languages:</h2>
+ <!-- <h2 align="center" style="margin-top: 30px; color: #FF6F61; margin-bottom: 20px;">👩🏻‍💻 Top Languages:</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=000000&text_color=F7F7F7&border_radius=15&hide_border=false&border_color=FFFFFF&card_width=500&langs_count=6&title_color=F7F7F7">
@@ -136,7 +138,7 @@
 </p>
 <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
-</p> 
+</p>  -->
 
 <!-- GitHub Achievements  -->
 <!-- <h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🏆</span> GitHub Achievements:</h2>
@@ -153,18 +155,17 @@
 
 
 <!-- GitHub Activity Graph  -->
-<h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🎯</span> GitHub Activity Graph:</h2>
+<!-- <h2 align="center" style="padding: 40px;"><span style="font-size: 48px; color: gold;">🎯</span> GitHub Activity Graph:</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Fcharki's%20Activity%20Graph&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Fcharki's%20Activity%20Graph&hide_border=true&bg_color=ffffff&color=1f6feb&line=1f6feb&point=1f6feb&area=true&area_color=1f6feb">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Fcharki's%20Activity%20Graph&hide_border=true" alt="github-activity-graph">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fcharki&custom_title=Fcharki%20Activity%20Graph&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fcharki&custom_title=Fcharki%20Activity%20Graph&hide_border=true&bg_color=ffffff&color=1f6feb&line=1f6feb&point=1f6feb&area=true&area_color=1f6feb">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fcharki&custom_title=Fcharki%20Activity%20Graph&hide_border=true" alt="github-activity-graph">
   </picture>
-</p>
+</p> -->
 <!-- <p align="center">
 <span style="color:#FF6F61;">─────────────────────────────────────</span>
 </p> -->
 
 <!-- Closing Statement -->
 <!-- <h1 align="center" style="margin-top: 30px; color:#FF6F61; margin-bottom: 20px;">Thank you for visiting my profile! 🚀</h1> -->
-
