@@ -22,6 +22,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/fci_kaizen" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://github.com/Fcharki" target="_blank"><img src="https://img.shields.io/github/followers/Fcharki?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" /></a>
   <img src="https://img.shields.io/badge/-Email-E85D75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </p>
@@ -176,6 +177,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat&logo=python&logoColor=white" alt="Web Scraping"/>
 </p>
 
 <h3 align="center" style="color: #6B5B95;">Databases</h3>
@@ -185,6 +187,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
 <h3 align="center" style="color: #6B5B95;">AI &amp; Machine Learning</h3>
@@ -195,6 +198,10 @@
   <img src="https://img.shields.io/badge/RAG-6EBB66?style=flat&logo=redis&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/Embeddings-6EBB66?style=flat&logo=vectorlogo&logoColor=white" alt="Embeddings"/>
   <img src="https://img.shields.io/badge/sentence--piece-111111?style=flat&logo=huggingface&logoColor=white" alt="SentencePiece"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/LLM_Agents-6EBB66?style=flat" alt="LLM Agents"/>
+  <img src="https://img.shields.io/badge/Function_Calling-6EBB66?style=flat" alt="Function Calling"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6EBB66?style=flat" alt="Prompt Engineering"/>
 </p>
 
 <h3 align="center" style="color: #6B5B95;">Auth &amp; Security</h3>
@@ -215,6 +222,7 @@
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/Laravel_Pint-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel Pint"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/>
+  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white" alt="Mermaid"/>
 </p>
 
 <br>
@@ -265,6 +273,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/fci_kaizen" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
   <a href="mailto:fadma.charki101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E85D75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Fcharki" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://fadmacharki.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6EBB66?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
