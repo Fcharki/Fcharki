@@ -25,10 +25,10 @@
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/fcidev" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/fci_zen" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:fadma.charki101@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-E85D75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://fcidev.medium.com/" target="_blank" rel="noopener noreferrer">
@@ -289,7 +289,7 @@
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/fcidev" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/fci_zen" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="mailto:fadma.charki101@gmail.com" target="_blank" rel="noopener noreferrer">
