@@ -22,9 +22,14 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/fci_zen" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://github.com/Fcharki" target="_blank"><img src="https://img.shields.io/github/followers/Fcharki?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" /></a>
+<a href="https://x.com/fcidev" target="_blank">
+<a href="https://fcidev.medium.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
   <img src="https://img.shields.io/badge/-Email-E85D75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>  
+ <a href="https://github.com/Fcharki" target="_blank"><img src="https://img.shields.io/github/followers/Fcharki?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" /></a>
 </p>
 
 <br>
@@ -273,8 +278,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/fci_zen" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:fadma.charki101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E85D75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/fcidev" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>  <a href="mailto:fadma.charki101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E85D75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Fcharki" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://fadmacharki.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6EBB66?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
