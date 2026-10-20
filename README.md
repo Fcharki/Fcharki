@@ -267,9 +267,9 @@
 <h2 align="center" style="color: #FF6F61;">👩🏻‍💻 Top Languages</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=161B22&text_color=FFFFFF&border_color=30363D&border_radius=15&hide_border=false&langs_count=8&title_color=FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=FFFFFF&text_color=20202A&border_color=E0E0E0&border_radius=15&hide_border=false&langs_count=8&title_color=20202A">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=161B22&text_color=FFFFFF&border_color=30363D&border_radius=15&hide_border=false&langs_count=8&title_color=FFFFFF" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=161B22&text_color=FFFFFF&border_color=30363D&border_radius=15&hide_border=false&langs_count=10&title_color=FFFFFF&size_weight=0.6&count_weight=0.4&hide=html,css">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=FFFFFF&text_color=20202A&border_color=E0E0E0&border_radius=15&hide_border=false&langs_count=10&title_color=20202A&size_weight=0.6&count_weight=0.4&hide=html,css">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=161B22&text_color=FFFFFF&border_color=30363D&border_radius=15&hide_border=false&langs_count=10&title_color=FFFFFF&size_weight=0.6&count_weight=0.4&hide=html,css" alt="Top Languages" />
   </picture>
 </p>
 
