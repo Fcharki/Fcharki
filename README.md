@@ -5,7 +5,7 @@
   <h1 align="center" style="font-size: 46px; color: #6EBB66; margin: 18px 0 4px 0;">Hi, I'm Fadma! 👋</h1>
 
   <p align="center" style="font-size: 18px; color: #6B5B95; margin: 0 0 18px 0;">
-    Full-Stack Developer · MERN &amp; React/Next-Laravel · AI-Augmented Applications
+    Full-Stack Developer · MERN &amp; React/Next-Laravel · AI-Augmented Applications · AI Agents
   </p>
 
  <div style="margin-top: 10px;" align="center">
