@@ -61,20 +61,6 @@
   <p style="font-size: 18px; color: #6EBB66; margin: 8px 0 24px 0;">
     AI agents, machine learning fundamentals, and retrieval architectures
   </p>
-
-  <h3 style="color: #6B5B95;">📫 Get in Touch</h3>
-  <p style="margin: 8px 0 24px 0;">
-    <a href="mailto:fadma.charki101@gmail.com" style="color: #FF6F61; text-decoration: none; font-size: 18px; font-weight: bold;">
-      fadma.charki101@gmail.com
-    </a>
-  </p>
-
-  <p style="margin: 0;">
-    👀 Take a look at my portfolio:
-    <a href="https://fadmacharki.netlify.app/" target="_blank" style="color: #6EBB66; text-decoration: underline;">
-      <strong>fadmacharki.netlify.app</strong>
-    </a>
-  </p>
 </div>
 
 <br>
