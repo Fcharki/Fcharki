@@ -236,9 +236,7 @@
     </td>
   </tr>
 </table>
-
 <br>
-<hr>
 
 <!-- GitHub Stats -->
 <h2 align="center" style="color: #FF6F61;">📊 GitHub Stats</h2>
