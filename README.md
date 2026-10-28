@@ -5,7 +5,7 @@
   <h1 align="center" style="font-size: 46px; color: #6EBB66; margin: 18px 0 4px 0;">Hi, I'm Fadma! 👋</h1>
 
   <p align="center" style="font-size: 18px; color: #6B5B95; margin: 0 0 18px 0;">
-    Full-Stack Developer · MERN &amp; React/Next-Laravel · AI-Augmented Applications · AI Agents
+    Full-Stack Developer · MERN, React/Next.js &amp; Laravel · AI-Augmented Applications · AI Agents
   </p>
 
  <div style="margin-top: 10px;" align="center">
@@ -23,16 +23,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/fci_zen" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:fadma.charki101@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Email-E85D75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-E85D75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://fcidev.medium.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://fadmacharki.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-6EBB66?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Fcharki" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/followers/Fcharki?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" />
@@ -55,7 +58,7 @@
 
 <br>
 
-<!-- Currently learning / contact -->
+<!-- Currently learning -->
 <div align="center">
   <h3 style="color: #6B5B95;">🌱 Currently Learning</h3>
   <p style="font-size: 18px; color: #6EBB66; margin: 8px 0 24px 0;">
@@ -140,92 +143,102 @@
   </p>
 
 </div>
-
+-->
 
 <br>
 
 <!-- Tech stack -->
 <h2 align="center" style="color: #FF6F61;">🛠️ Technologies &amp; Tools</h2>
 
-<h3 align="center" style="color: #6B5B95;">Frontend Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/TipTap-111111?style=flat&logo=tiptap&logoColor=white" alt="TipTap"/>
-</p>
-
-<h3 align="center" style="color: #6B5B95;">Styling &amp; Design</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcn&logoColor=white" alt="shadcn/ui"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-<h3 align="center" style="color: #6B5B95;">Backend Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat&logo=python&logoColor=white" alt="Web Scraping"/>
-</p>
-
-<h3 align="center" style="color: #6B5B95;">Databases</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white" alt="pgvector"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-<h3 align="center" style="color: #6B5B95;">AI &amp; Machine Learning</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/RAG-6EBB66?style=flat&logo=redis&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Embeddings-6EBB66?style=flat&logo=vectorlogo&logoColor=white" alt="Embeddings"/>
-  <img src="https://img.shields.io/badge/sentence--piece-111111?style=flat&logo=huggingface&logoColor=white" alt="SentencePiece"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/LLM_Agents-6EBB66?style=flat" alt="LLM Agents"/>
-  <img src="https://img.shields.io/badge/Function_Calling-6EBB66?style=flat" alt="Function Calling"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-6EBB66?style=flat" alt="Prompt Engineering"/>
-</p>
-
-<h3 align="center" style="color: #6B5B95;">Auth &amp; Security</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel Sanctum"/>
-  <img src="https://img.shields.io/badge/Socialite-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel Socialite"/>
-  <img src="https://img.shields.io/badge/Passkeys-6EBB66?style=flat&logo=googlechrome&logoColor=white" alt="Passkeys"/>
-</p>
-
-<h3 align="center" style="color: #6B5B95;">DevOps &amp; Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/PHPUnit-367588?style=flat&logo=php&logoColor=white" alt="PHPUnit"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="Pytest"/>
-  <img src="https://img.shields.io/badge/Laravel_Pint-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel Pint"/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/>
-  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white" alt="Mermaid"/>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" valign="top" width="200"><b>Frontend</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/>
+      <img src="https://img.shields.io/badge/TipTap-111111?style=flat&logo=tiptap&logoColor=white" alt="TipTap"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="200"><b>Styling &amp; Design</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcn&logoColor=white" alt="shadcn/ui"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="200"><b>Backend</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" alt="Pydantic"/>
+      <img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat&logo=python&logoColor=white" alt="Web Scraping"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="200"><b>Databases</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white" alt="pgvector"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="200"><b>AI &amp; Machine Learning</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Transformers"/>
+      <img src="https://img.shields.io/badge/RAG-6EBB66?style=flat" alt="RAG"/>
+      <img src="https://img.shields.io/badge/Embeddings-6EBB66?style=flat" alt="Embeddings"/>
+      <img src="https://img.shields.io/badge/sentence--piece-111111?style=flat&logo=huggingface&logoColor=white" alt="SentencePiece"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
+      <img src="https://img.shields.io/badge/LLM_Agents-6EBB66?style=flat" alt="LLM Agents"/>
+      <img src="https://img.shields.io/badge/Function_Calling-6EBB66?style=flat" alt="Function Calling"/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-6EBB66?style=flat" alt="Prompt Engineering"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="200"><b>Auth &amp; Security</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel Sanctum"/>
+      <img src="https://img.shields.io/badge/Socialite-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel Socialite"/>
+      <img src="https://img.shields.io/badge/Passkeys-6EBB66?style=flat&logo=googlechrome&logoColor=white" alt="Passkeys"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="200"><b>DevOps &amp; Tools</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/PHPUnit-367588?style=flat&logo=php&logoColor=white" alt="PHPUnit"/>
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="Pytest"/>
+      <img src="https://img.shields.io/badge/Laravel_Pint-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel Pint"/>
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/>
+      <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white" alt="Mermaid"/>
+    </td>
+  </tr>
+</table>
 
 <br>
-<p align="center"><span style="color:#FF6F61;">─────────────────────────────────────</span></p>
+<hr>
 
 <!-- GitHub Stats -->
 <h2 align="center" style="color: #FF6F61;">📊 GitHub Stats</h2>
@@ -240,7 +253,7 @@
 <!-- Streaks -->
 <h2 align="center" style="color: #FF6F61;">🔥 GitHub Streaks</h2>
 <p align="center" style="margin-bottom: 40px;">
-  <a href="https://git.io/streak-stats" target="_blank">
+  <a href="https://github.com/Fcharki" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Fcharki&theme=dark&hide_border=true">
       <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Fcharki&theme=default&hide_border=true">
@@ -260,7 +273,7 @@
 </p>
 
 <br>
-<p align="center"><span style="color:#FF6F61;">─────────────────────────────────────</span></p>
+<hr>
 
 <h2 align="center" style="color: #FF6F61;">📫 Let's Connect</h2>
 
@@ -291,4 +304,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
