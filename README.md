@@ -17,10 +17,7 @@
 
 </div>
 
-<br>
-
 <!-- Badges -->
-
 <p align="center">
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,9 +39,6 @@
   </a>
 </p>
 
-
-<br>
-
 <!-- About -->
 <h2 align="center" style="color: #FF6F61;">🚀 About Me</h2>
 
@@ -56,8 +50,6 @@
   outside a demo.
 </p>
 
-<br>
-
 <!-- Currently learning -->
 <div align="center">
   <h3 style="color: #6B5B95;">🌱 Currently Learning</h3>
@@ -65,8 +57,6 @@
     AI agents, machine learning fundamentals, and retrieval architectures
   </p>
 </div>
-
-<br>
 
 <!--
 <h2 align="center" style="color: #FF6F61;">🚩 Recent Projects</h2>
@@ -144,12 +134,9 @@
 
 </div>
 -->
-
 <br>
-
 <!-- Tech stack -->
 <h2 align="center" style="color: #FF6F61;">🛠️ Technologies &amp; Tools</h2>
-
 <table width="100%">
   <tr>
     <td align="left" valign="top" width="200"><b>Frontend</b></td>
@@ -269,8 +256,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcharki&layout=compact&bg_color=161B22&text_color=FFFFFF&border_color=30363D&border_radius=15&hide_border=false&langs_count=10&title_color=FFFFFF&size_weight=0.6&count_weight=0.4&hide=html,css" alt="Top Languages" />
   </picture>
 </p>
-
-<br>
 <hr>
 
 <h2 align="center" style="color: #FF6F61;">📫 Let's Connect</h2>
@@ -280,8 +265,6 @@
   involving applied machine learning. If you have a project in mind, or just want
   to compare notes, my inbox is open.
 </p>
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/fadma-c-0a4043293/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
