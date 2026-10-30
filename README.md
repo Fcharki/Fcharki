@@ -239,14 +239,14 @@
 <br>
 
 <!-- GitHub Stats -->
-<h2 align="center" style="color: #FF6F61;">📊 GitHub Stats</h2>
+<!-- <h2 align="center" style="color: #FF6F61;">📊 GitHub Stats</h2>
 <p align="center" style="margin-bottom: 40px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=161B22&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=30363D&hide_border=false&card_width=400">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fcharki&show_icons=true&count_private=true&theme=default&border_radius=15&bg_color=FFFFFF&title_color=FB8C00&icon_color=6EBB66&text_color=20202A&border_color=E0E0E0&hide_border=false&card_width=400">
     <img src="https://github-readme-stats.vercel.app/api?username=Fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=161B22&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=30363D" alt="GitHub Stats" />
   </picture>
-</p>
+</p> -->
 
 <!-- Streaks -->
 <h2 align="center" style="color: #FF6F61;">🔥 GitHub Streaks</h2>
