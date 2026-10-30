@@ -38,10 +38,9 @@
     <img src="https://img.shields.io/github/followers/Fcharki?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" />
   </a>
 </p>
-
+<br>
 <!-- About -->
 <h2 align="center" style="color: #FF6F61;">🚀 About Me</h2>
-
 <p align="center" style="max-width: 720px; margin: 0 auto; line-height: 1.7;">
   I build full-stack applications where a clean API, a thoughtful interface, and
   the underlying data model actually agree with each other. My current focus is
@@ -49,10 +48,10 @@
   search, and local LLM inference - and shipping them as systems that hold up
   outside a demo.
 </p>
-
+<br>
 <!-- Currently learning -->
 <div align="center">
-  <h3 style="color: #6B5B95;">🌱 Currently Learning</h3>
+  <h2 style="color: #6B5B95;">🌱 Currently Learning</h2>
   <p style="font-size: 18px; color: #6EBB66; margin: 8px 0 24px 0;">
     AI agents, machine learning fundamentals, and retrieval architectures
   </p>
@@ -246,7 +245,7 @@
     </picture>
   </a>
 </p>
-
+<br>
 <!-- Top Languages -->
 <h2 align="center" style="color: #FF6F61;">👩🏻‍💻 Top Languages</h2>
 <p align="center">
