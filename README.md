@@ -223,31 +223,6 @@
   </tr>
 </table>
 <br>
-
-<!-- GitHub Stats -->
-<!-- <h2 align="center" style="color: #FF6F61;">📊 GitHub Stats</h2>
-<p align="center" style="margin-bottom: 40px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=161B22&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=30363D&hide_border=false&card_width=400">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fcharki&show_icons=true&count_private=true&theme=default&border_radius=15&bg_color=FFFFFF&title_color=FB8C00&icon_color=6EBB66&text_color=20202A&border_color=E0E0E0&hide_border=false&card_width=400">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fcharki&show_icons=true&count_private=true&theme=dark&border_radius=15&bg_color=161B22&title_color=FB8C00&icon_color=6EBB66&text_color=FFFFFF&border_color=30363D" alt="GitHub Stats" />
-  </picture>
-</p> -->
-
-<!-- Streaks -->
-<h2 align="center" style="color: #FF6F61;">🔥 GitHub Streaks</h2>
-<p align="center" style="margin-bottom: 40px;">
-  <a href="https://github.com/Fcharki" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Fcharki&theme=dark&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Fcharki&theme=default&hide_border=true">
-      <img src="https://streak-stats.demolab.com/?user=Fcharki&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </picture>
-  </a>
-</p>
-<br>
-<hr>
-
 <h2 align="center" style="color: #FF6F61;">📫 Let's Connect</h2>
 
 <p align="center" style="max-width: 640px; margin: 0 auto 16px auto; line-height: 1.7;">
