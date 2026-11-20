@@ -186,16 +186,13 @@
   <tr>
     <td align="left" valign="top" width="200"><b>AI &amp; Machine Learning</b></td>
     <td align="left">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
       <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
       <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Transformers"/>
       <img src="https://img.shields.io/badge/RAG-6EBB66?style=flat" alt="RAG"/>
       <img src="https://img.shields.io/badge/Embeddings-6EBB66?style=flat" alt="Embeddings"/>
-      <img src="https://img.shields.io/badge/sentence--piece-111111?style=flat&logo=huggingface&logoColor=white" alt="SentencePiece"/>
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
       <img src="https://img.shields.io/badge/LLM_Agents-6EBB66?style=flat" alt="LLM Agents"/>
       <img src="https://img.shields.io/badge/Function_Calling-6EBB66?style=flat" alt="Function Calling"/>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-6EBB66?style=flat" alt="Prompt Engineering"/>
     </td>
   </tr>
   <tr>
@@ -218,7 +215,6 @@
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="Pytest"/>
       <img src="https://img.shields.io/badge/Laravel_Pint-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel Pint"/>
       <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/>
-      <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white" alt="Mermaid"/>
     </td>
   </tr>
 </table>
